@@ -3,7 +3,6 @@ public class ArrayClass {
     public static void printArr(){
         int [] data= {1,2,3,4,5,6,7,8,9};
         int x = 5;
-        int y;
         int [][] arr = new int[x][x];
 
         for (int i = 0; i < data.length; i++){
