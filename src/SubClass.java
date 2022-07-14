@@ -1,7 +1,7 @@
 public class SubClass extends SuperClass {
 
     SubClass(int d) {
-        super(d+35);
+        super(d+3);
     }
 
     public static void main(String args[]) {
